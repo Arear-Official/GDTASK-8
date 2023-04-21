@@ -1,0 +1,8 @@
+C:\Users\37533\Desktop\C#\gd8\gd8\bin\Debug\gd8.exe.config
+C:\Users\37533\Desktop\C#\gd8\gd8\bin\Debug\gd8.exe
+C:\Users\37533\Desktop\C#\gd8\gd8\bin\Debug\gd8.pdb
+C:\Users\37533\Desktop\C#\gd8\gd8\obj\Debug\gd8.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\C#\gd8\gd8\obj\Debug\gd8.csproj.SuggestedBindingRedirects.cache
+C:\Users\37533\Desktop\C#\gd8\gd8\obj\Debug\gd8.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\C#\gd8\gd8\obj\Debug\gd8.exe
+C:\Users\37533\Desktop\C#\gd8\gd8\obj\Debug\gd8.pdb
